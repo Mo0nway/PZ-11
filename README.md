@@ -1,5 +1,6 @@
 # PZ-11
 <img width="944" height="352" alt="2026-04-10_14-03-03" src="https://github.com/user-attachments/assets/db4ddb3e-67ca-4385-9ba3-023e116ec843" />
+
 Задание 1
 
 ~~~
